@@ -221,9 +221,9 @@ Database Design             ███████░░░░░░░░░░�
 ## 🏆 Professional Skills
 
 ```
-Creativity & Innovation      ████████████░░░░░░ 90%
+Creativity & Innovation      ████████████░░░░░░░ 90%
 Problem-Solving Approach     █████████████░░░░░░ 85%
-Communication & Collaboration ███████████░░░░░░░░ 75%
+Communication & Collaboration███████████░░░░░░░░ 75%
 Team Work & Cooperation      ███████████████░░░░ 85%
 Time Management              ███████████░░░░░░░░ 80%
 Adaptability & Learning      █████████████░░░░░░ 85%
@@ -334,7 +334,7 @@ Adaptability & Learning      █████████████░░░░
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/karthi-dev)
 [![Portfolio](https://img.shields.io/badge/-Portfolio-FF6B35?style=for-the-badge&logo=web&logoColor=white)](https://remarkable-sunflower-6ac9a5.netlify.app)
 
-**Phone:** 6380866409 | **Email:** karthidorabujji@gmail.com  
+**Phone:** 6380866409 | **Email:** shankarshanthi2020@gmail.com 
 **Response Time:** ⚡ Usually within 24 hours  
 **Available For:** Full-time projects, part-time work, immediate starts
 
@@ -362,7 +362,7 @@ Got a project in mind? Need a developer? Want to collaborate?
 **Let's make something awesome together!**
 
 ```
-→ Send me an email: karthidorabujji@gmail.com
+→ Send me an email: shankarshanthi2020@gmail.com
 → Connect on LinkedIn
 → Check out my portfolio: remarkable-sunflower-6ac9a5.netlify.app
 → Let's discuss your project!
@@ -382,4 +382,4 @@ Got a project in mind? Need a developer? Want to collaborate?
 
 ---
 
-*Last updated: January 2025 | Always evolving, never settling* 🚀
+ Always evolving, never settling* 🚀
