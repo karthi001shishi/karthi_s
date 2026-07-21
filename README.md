@@ -51,7 +51,6 @@
 
 [![Portfolio](https://img.shields.io/badge/🌐_PORTFOLIO-LIVE-8b5cf6?style=for-the-badge&logo=netlify&logoColor=white&labelColor=0f0728)](https://remarkable-sunflower-6ac9a5.netlify.app)&nbsp;&nbsp;
 [![LinkedIn](https://img.shields.io/badge/LINKEDIN-CONNECT-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=003366)](https://linkedin.com/in/karthi-s)&nbsp;&nbsp;
-[![LeetCode](https://img.shields.io/badge/LEETCODE-200%2B-FFA116?style=for-the-badge&logo=leetcode&logoColor=black&labelColor=b35f00)](https://leetcode.com/karthi-dev)&nbsp;&nbsp;
 [![Gmail](https://img.shields.io/badge/EMAIL-HIRE%20ME-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=7f0000)](mailto:karthidorabujji@gmail.com)
 
 </div>
@@ -74,8 +73,8 @@ const KARTHI = {
   name        : "Karthi S",
   title       : "Full Stack Developer",
   college     : "Agni College of Technology",
-  degree      : "B.Tech IT — Pre Final Year",
-  cgpa        : 8.1,
+  degree      : "B.Tech IT —  Final Year",
+  cgpa        : 7.91,
   internships : 2,
   projects    : 15,
   dsa_solved  : 200,
@@ -90,7 +89,6 @@ const KARTHI = {
   },
 
   hobbies : ["Chess ♟", "Badminton 🏸", "Tech Blog ✍️"],
-  goal    : "GATE 2026 + Dream SWE Internship 🎯",
 
   hire()  { return "Let's build something epic! 🚀" }
 }
